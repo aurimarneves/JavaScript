@@ -1,0 +1,2 @@
+Olá, esse é o meu primeiro projeto usando JavaScript, CSS e HTML, decidi separar para ficar mais organizado e fácil caso quisesse modificar alguma coisa como por exemplo o estilo.
+O projeto da calculadora tem base em um video do YouTube no qual achei muito interessante o uso do comando "eval".
